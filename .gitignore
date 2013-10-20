@@ -1,0 +1,8 @@
+02. Ignoring Files-Understanding what to ignore.srt
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
